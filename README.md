@@ -70,9 +70,9 @@
 
 [ ] https://github.com/PacktPublishing/ASP.NET-Core-6-and-Angular/blob/main/Chapter_08/WorldCities/WorldCities/src/app/cities/city-edit.component.html  
 
-[ ] https://www.youtube.com/watch?v=H_-7o_pLn1s&list=PLdsnXVqbHDUdN7tqxZssqWOFK7xtx-b4r&index=30  
+[x] https://www.youtube.com/watch?v=H_-7o_pLn1s&list=PLdsnXVqbHDUdN7tqxZssqWOFK7xtx-b4r&index=30  
 [ ] https://www.youtube.com/watch?v=2tpshOTtleM  
-[ ] https://www.youtube.com/watch?v=NuIOO5VWmXc  
+[x] https://www.youtube.com/watch?v=NuIOO5VWmXc  
 
 [ ] https://www.youtube.com/watch?v=xIA3t2Je3uQ  
 [ ] https://www.youtube.com/watch?v=wnqBmv1RJNE  
