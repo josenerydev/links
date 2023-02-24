@@ -60,7 +60,7 @@
 
 [ ] https://nickchapsas.com/courses/cloud-fundamentals-aws-services-for-c-developers/lectures/45104426  
 
-[ ] https://university.redis.com/courses/course-v1:redislabs+RU102N+2023_01/courseware/1a3812362378461cb366aee0ed6fcc0f/d1a842bf4314460dac045607f5169457/?child=first  
+[ ] https://university.redis.com/dashboard  
 
 [ ] https://letsencrypt.org/pt-br/docs/  
 
